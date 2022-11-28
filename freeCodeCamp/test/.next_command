@@ -775,3 +775,18 @@ history -a
 echo one more thing...
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+echo I finished the boilerplate! README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo I finished the boilerplate! >> README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo I finished the boilerplate >> README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo I finished the boilerplate >> README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo I made this boilerplate >> README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
