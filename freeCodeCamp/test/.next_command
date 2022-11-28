@@ -246,3 +246,42 @@ history -a
 touch CodeAlly.svg
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch CodRoad.svg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch CoadRoad.svg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm codroad.svg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm CodRoad.svg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+l
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+clear
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm CoadRoad.svg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch COdeRoad.svg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm COdeRoad.svg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch CodeRoad.svg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
